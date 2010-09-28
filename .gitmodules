@@ -1,0 +1,3 @@
+[submodule "vendor/wtframework"]
+	path = vendor/wtframework
+	url = http://github.com/oskarkrawczyk/wtframework.git

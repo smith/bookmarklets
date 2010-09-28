@@ -1,0 +1,1 @@
+/home/smith/apps/bookmarklets/vendor/wtframework/Source/WTFramework.bookmarklet.js
